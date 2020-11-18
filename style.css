@@ -1,0 +1,257 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Nav bar */
+
+.navbar-brand {
+    letter-spacing: 1px;
+    padding-top: 10px;
+    padding-right: 3rem;
+    font-weight: 800;
+    font-size: 1.8rem;
+    font-family: Roboto,"Helvetica Neue";
+}
+
+
+.navbar {
+    padding: 2px 55px;
+   line-height: 25px;
+   margin-bottom: 2px;
+}
+
+.nav-link {
+    
+    padding: 1.5rem .7rem;
+     font-weight: 620;
+     font-size: .9rem;
+     color: rgba(37, 18, 110, 0.9);
+     text-transform: uppercase;
+}
+
+.shion-brand {
+    color: rgba(28, 14, 80, 0.8) !important;
+}
+
+/* Carousel */
+
+.carousel-indicators {
+    padding-bottom: 100px;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.carousel-item > img {
+    padding: 20px 55px 40px;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.carousel-caption {
+    padding: 40px 70px;
+    margin-bottom: 10rem;
+    line-height: 70px;
+}
+
+
+.carousel-caption h1 {
+    font-weight: 800;
+    font-size: 4.5rem;
+  font-family: Roboto,"Helvetica Neue";
+    letter-spacing: 3px;
+    
+}
+
+.shion-btn {
+    background-color:  rgba(158, 40, 236, 0.9);
+    color: white;
+    width: 200px;
+    box-shadow: rgba(107, 105, 105, 0.7);
+    
+    
+}
+
+/* item cards */
+
+
+
+.shion-arrival {
+    color: rgba(17, 8, 51, 0.8) !important;
+    font-weight: 700;
+    font-size: 3.5rem;
+    font-family: "Cinzel",serif;
+    text-align: center;
+    padding: 45px;
+    letter-spacing: 2px;
+}
+
+.shion-popular {
+    margin-bottom: 30px;
+    padding: 1px 35px;
+}
+
+
+.shion-item-collection {
+    margin-bottom: 30px;
+    padding: 1px 80px;
+}
+
+.card {
+    border: none;
+}
+
+.shion-items {
+    text-align: center;
+    
+}
+
+.shion-star-icon {
+    padding: 10px 1px;
+    color: rgb(245, 180, 83) !important;
+}
+
+.shion-dollar, .knitted-link {
+    letter-spacing: 1px;
+    font-family: "Poppins",sans-serif;
+    font-weight: 550;
+    font-size: 1.2rem;
+}
+
+.knitted-link {
+    color: rgb(58, 55, 55) !important;
+     
+}
+
+.browse-more {
+    padding-top: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.shion-browse-more {
+
+    border: 2px solid rgba(149, 62, 207, 0.7);
+    padding: 15px 55px;
+    color:  rgba(111, 49, 153, 0.8);
+    font-weight: 700;
+
+}
+
+.long-image {
+    padding: 30px 35px;
+    margin-bottom: 40px;
+}
+
+.long-image-container {
+    padding-top: 18rem;
+    text-align: center;
+}
+
+.long-image-container > h1 {
+    font-family: Roboto,"Helvetica Neue";
+    font-size: 4.3rem;
+    letter-spacing: 2px;
+     padding-bottom: 12px;
+
+}
+
+/* grey jumbotron */
+
+.jumbotron {
+    margin: 2px 50px;
+}
+
+
+.shion-delivery {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 90px 10px;
+}
+
+.shion-delivery > div {
+    padding-right: 0 70px;
+   
+}
+
+.shion-jumbotron img {
+    width: 4rem;
+    height: 4rem;
+     padding-bottom: 20px;
+}
+.shion-jumbotron > h3  {
+    font-size: 20px;
+    padding-bottom: 1px;
+}
+
+.shion-jumbotron > p {
+    font-size: 15px;
+}
+
+
+/* Navy-blue jumbotron */
+
+
+.jumbotron-navy {
+    margin: 2px 50px;
+    background-color: rgba(26, 26, 75, 0.8);
+}
+
+.shion-jumbotron-navy{
+    padding-right: 80px;
+    margin-left: 5px;
+}
+
+.shion-jumbotron-navy > p{
+    color: rgba(236, 235, 235, 0.6);
+}
+
+
+.shion-jumbotron-navy > h3{
+    padding-bottom: 25px;
+    font-size: 1.3rem;
+    color: white;
+}
+
+
+.shion-jumbotron-navy  a {
+    display: inline-block;
+    padding-bottom: 10px;
+    font-size: .9rem;
+    color: rgba(236, 235, 235, 0.6);
+}
+
+.shion-copywrite {
+    padding-top: 60px;
+    text-align: center;
+}
+
+.shion-copywrite p {
+    font-size: 1rem;
+    padding: 40px 2px;
+    color: white;
+}
+
+.shion-copywrite span {
+    color:  rgba(144, 18, 228, 0.8);
+}
+
+.social-shion-icon {
+    text-align: left;
+}
+
+
+ .shion-picture-grid {
+     padding: 1px 35px;
+ }
